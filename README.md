@@ -1,10 +1,9 @@
-[github-profile-README.md](https://github.com/user-attachments/files/33389518/github-profile-README.md)
-
+[github-profile-README.md](https://github.com/user-attachments/files/33390175/github-profile-README.md)
 <div align="center">
 
-# Hi there 👋, I'm **PsycheLa1n**
+# ⚡ Hi there, I'm **PsycheLa1n** ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+PsycheLa1n;AI+Student+%7C+ML+%26+Deep+Learning;Learning+LLM+%7C+Transformer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+PsycheLa1n;AI+Student+%7C+ML+%26+Deep+Learning;Learning+LLM+%7C+Transformer)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,16 +20,16 @@
 
 ## 🛠️ 技能栈（Tech Stack）
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-326CE5?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge)
-![Transformer](https://img.shields.io/badge/Transformer-00A98F?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-00B4D8?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F72585?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4361EE?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-9D4EDD?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00B4D8?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-F72585?style=for-the-badge)
+![Transformer](https://img.shields.io/badge/Transformer-7B2CBF?style=for-the-badge)
 
 ---
 
@@ -38,11 +37,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsycheLa1n&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/PsycheLa1n)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsycheLa1n&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://github.com/PsycheLa1n)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsycheLa1n&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/PsycheLa1n)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsycheLa1n&layout=compact&theme=synthwave&hide_border=true&langs_count=8)](https://github.com/PsycheLa1n)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PsycheLa1n&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PsycheLa1n&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -80,8 +79,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=PsycheLa1n&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=PsycheLa1n&color=ff69b4&style=flat-square)
 
-⭐️ *感谢访问，欢迎 ⭐ 我的仓库一起交流 AI！*
+⚡ *感谢访问，欢迎 ⭐ 我的仓库一起交流 AI！* ⚡
 
 </div>
