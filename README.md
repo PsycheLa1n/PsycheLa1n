@@ -1,4 +1,4 @@
-[github-profile-README.md](https://github.com/user-attachments/files/33390175/github-profile-README.md)
+[Uploading github-profile-README.md…]()
 <div align="center">
 
 # ⚡ Hi there, I'm **PsycheLa1n** ⚡
@@ -9,16 +9,16 @@
 
 ---
 
-## 👋 自我介绍（About Me）
+## 👋 About Me
 
-- 🎓 我是一名学生，专注于 **AI 方向**
-- 🤖 正在学习 **机器学习（ML）**、**深度学习（DL）**、**Transformer** 与 **LLM（大语言模型）**
-- 🧪 喜欢动手实践，把学到的东西沉淀成项目、笔记和开源代码
-- 🚀 长期目标：做出有意思的 AI 应用
+- 🎓 I'm a student focused on **AI**
+- 🤖 Currently learning **Machine Learning (ML)**, **Deep Learning (DL)**, **Transformers**, and **LLMs (Large Language Models)**
+- 🧪 I love building things and turning what I learn into projects, notes, and open-source code
+- 🚀 Long-term goal: build interesting AI applications
 
 ---
 
-## 🛠️ 技能栈（Tech Stack）
+## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 统计卡片（GitHub Stats）
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -47,27 +47,27 @@
 
 ---
 
-## 📫 联系 / 社交（Connect with Me）
+## 📫 Connect with Me
 
-- 📧 **Email**：[2309263026@qq.com](mailto:2309263026@qq.com)
-- 🐙 **GitHub**：[PsycheLa1n](https://github.com/PsycheLa1n)
+- 📧 **Email**: [2309263026@qq.com](mailto:2309263026@qq.com)
+- 🐙 **GitHub**: [PsycheLa1n](https://github.com/PsycheLa1n)
 
-<!-- 有博客 / Twitter / LinkedIn 时，取消下面注释并填上你的链接 -->
+<!-- Uncomment and fill in when you have these -->
 <!--
-- 🌐 博客：[你的博客](https://your-blog.com)
-- 🐦 Twitter/X：[@yourhandle](https://x.com/yourhandle)
-- 💼 LinkedIn：[yourname](https://www.linkedin.com/in/yourname)
+- 🌐 Blog: [your blog](https://your-blog.com)
+- 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle)
+- 💼 LinkedIn: [yourname](https://www.linkedin.com/in/yourname)
 -->
 
 ---
 
-## 🔥 最近动态（Recent Activity）
+## 🔥 Recent Activity
 
-### 提交热力图 / 活动记录
+### Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PsycheLa1n&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 贪吃蛇动画（吃掉你的贡献格子 🐍）
+### Snake Animation 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PsycheLa1n/PsycheLa1n/output/github-contribution-grid-snake-dark.svg" />
@@ -81,6 +81,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PsycheLa1n&color=ff69b4&style=flat-square)
 
-⚡ *感谢访问，欢迎 ⭐ 我的仓库一起交流 AI！* ⚡
+⚡ *Thanks for visiting! Feel free to ⭐ my repos and connect!* ⚡
 
 </div>
